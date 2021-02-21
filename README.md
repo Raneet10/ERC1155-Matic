@@ -11,7 +11,7 @@ GameWeapons contract address (Matic Mumbai testnet) : ```0x54598d68A8CAdDBbF7210
 
 ```Sword``` : https://raneet10.github.io/GameWeapons/api/token/0000000000000000000000000000000000000000000000000000000000000000.json \
 ```Axe``` : https://raneet10.github.io/GameWeapons/api/token/0000000000000000000000000000000000000000000000000000000000000001.json  \
-```Mjolnir``` : https://raneet10.github.io/GameWeapons/api/token/0000000000000000000000000000000000000000000000000000000000000002.json \
+```Mjolnir``` : https://raneet10.github.io/GameWeapons/api/token/0000000000000000000000000000000000000000000000000000000000000002.json 
 
 
 **Pending**
